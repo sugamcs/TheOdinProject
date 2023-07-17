@@ -1,17 +1,4 @@
-p {
-    background-color: palevioletred;
-    font-family: Verdana, DejaVu Sans, sans-serif;
-}
-#gigachad {
-    color: blue;
-    font-size: 36px;
-}
-.hey {
-    font-size: 24px;
-
-}
-#boldchad {
-    background-color: green;
-    font-size: 24px;
-    font-weight: bold;
+div {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', serif, sans-serif;
 }
