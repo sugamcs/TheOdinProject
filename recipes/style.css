@@ -1,0 +1,13 @@
+.title{
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+#image {
+    height: auto;
+    width: 900px;
+    border: 1px solid black;
+    text-align: center;
+}
